@@ -1,0 +1,16 @@
+{
+	"resumenReversion" : [{
+		"fecGeneracion" : "2018-08-22",
+		"fecComunicacion" : "2018-08-22",
+		"tipDocBaja" : "20",
+		"numDocBaja" : "RTUS-111",
+		"desMotivoBaja" : "ERROR EN EMISION"
+	},
+	{
+		"fecGeneracion" : "2018-08-22",
+		"fecComunicacion" : "2018-08-22",
+		"tipDocBaja" : "40",
+		"numDocBaja" : "P2IT-2",
+		"desMotivoBaja" : "ERROR EN EMISION"
+	}]
+}

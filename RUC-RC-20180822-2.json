@@ -1,0 +1,28 @@
+{
+	"resumenDiario" : [{ 
+		"fecEmision": "2018-08-22", 
+		"fecResumen" : "2018-08-22", 
+		"tipDocResumen" : "03",
+		"idDocResumen" : "B001-1", 
+		"tipDocUsuario" : "1", 
+		"numDocUsuario" : "42454620", 
+		"tipMoneda" : "PEN", 
+		"totValGrabado" : "100.00",  
+		"totValInafecto" : "0.00", 
+		"monValGratuito" : "0.00", 
+		"totOtroCargo" : "0.00", 
+		"monTribIsc" : "10.00", 
+		"monTribIgv" : "19.80",
+		"monTribOtro" : "0.00", 
+		"totImpCpe" : "129.80", 
+		"tipDocModifico" : "", 
+		"serDocModifico" : "", 
+		"numDocModifico" : "", 
+		"tipRegPercepcion" : "", 
+		"porPercepcion" : "", 
+		"monBasePercepcion" : "", 
+		"monPercepcion" : "",
+		"monTotIncPercepcion" : "", 
+		"tipEstado" : "1"
+	}]
+}

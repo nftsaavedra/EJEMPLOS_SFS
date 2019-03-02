@@ -1,0 +1,45 @@
+{
+	"cabecera" : {
+		"fecEmision" : "2018-05-17",
+		"nroDocIdeReceptor" : "20131312955",
+		"tipDocIdeReceptor" : "6",
+		"desNomComReceptor" : "SUNAT SAC",
+		"desUbiReceptor" : "150101",
+		"desDirReceptor" : "JIRON PEDRO CANGA 150",
+		"desUrbReceptor" : "MARANGA",
+		"desDepReceptor" : "LIMA",
+		"desProReceptor" : "LIMA",
+		"desDisReceptor" : "SAN MIGUEL",
+		"codPaisReceptor" : "PE",
+		"rznSocialReceptor" : "SUNAT SAC",
+		"codRegPercepcion" : "01",
+		"tasPercepcion" : "2.00",
+		"desObsPercepcion" : "OBSRVACIONES",
+		"mtoTotPercepcion" : "2.00",
+		"tipMonPercepcion" : "PEN",
+		"mtoImpTotPagPercepcion" : "102",
+		"tipMonImpTotPagPercepcion" : "PEN"
+	},
+	"detalle" : [{
+			"tipDocRelacionado" : "01",
+			"nroDocRelacionado" : "F001-1",
+			"fecEmiDocRelacionado" : "2018-05-17",
+			"mtoImpTotDocRelacionado" : "100",
+			"tipMonDocRelacionado" : "PEN",
+			"fecPagDocRelacionado" : "2018-05-17",
+			"nroPagDocRelacionado" : "1",
+			"mtoPagDocRelacionado" : "100",
+			"tipMonPagDocRelacionado" : "PEN",
+			"mtoPerDocRelacionado" : "2.00",
+			"tipMonPerDocRelacionado" : "PEN",
+			"fecPerDocRelacionado" : "2018-05-17",
+			"mtoTotPagNetoDocRelacionado" : "102",
+			"tipMonTotPagNetoDocRelacionado" : "PEN",
+			"tipMonTipCambio" : "PEN",
+			"tasTipCambio" : "PEN",
+			"facTipCambio" : "1",
+			"fecTipCambio" : "2018-05-17"
+		}
+	]
+
+}

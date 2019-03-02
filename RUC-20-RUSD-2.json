@@ -1,0 +1,84 @@
+{
+	"cabecera" : {
+		"fecEmision" : "2018-05-17",
+		"nroDocIdeReceptor" : "20131312955",
+		"tipDocIdeReceptor" : "6",
+		"desNomComReceptor" : "SUNAT SAC",
+		"desUbiReceptor" : "150101",
+		"desDirReceptor" : "JIRON PEDRO CANGA 153430",
+		"desUrbReceptor" : "MARANGA",
+		"desDepReceptor" : "LIMA",
+		"desProReceptor" : "LIMA",
+		"desDisReceptor" : "SAN MIGUEL",
+		"codPaisReceptor" : "PE",
+		"rznSocialReceptor" : "SUNAT SAC",
+		"codRegRetencion" : "01",
+		"tasRetencion" : "3.00",
+		"desObsRetencion" : "OBSRVACIONES",
+		"mtoTotRetencion" : "14.29",
+		"tipMonRetencion" : "PEN",
+		"mtoImpTotPagRetencion" : "462.17",
+		"tipMonImpTotPagRetencion" : "PEN"
+	},
+	"detalle" : [{
+			"tipDocRelacionado" : "01",
+			"nroDocRelacionado" : "FPEN-1",
+			"fecEmiDocRelacionado" : "2018-05-17",
+			"mtoImpTotDocRelacionado" : "100.00",
+			"tipMonDocRelacionado" : "PEN",
+			"fecPagDocRelacionado" : "2018-05-17",
+			"nroPagDocRelacionado" : "1",
+			"mtoPagDocRelacionado" : "60.00",
+			"tipMonPagDocRelacionado" : "PEN",
+			"mtoRetDocRelacionado" : "1.80",
+			"tipMonRetDocRelacionado" : "PEN",
+			"fecRetDocRelacionado" : "2018-05-17",
+			"mtoTotPagNetoDocRelacionado" : "58.20",
+			"tipMonTotPagNetoDocRelacionado" : "PEN",
+			"tipMonRefTipCambio" : "PEN",
+			"tipMonObjTipCambio" : "PEN",
+			"facTipCambio" : "1",
+			"fecTipCambio" : "2018-05-17"
+		},
+		{
+			"tipDocRelacionado" : "01",
+			"nroDocRelacionado" : "FUSD-2",
+			"fecEmiDocRelacionado" : "2018-05-17",
+			"mtoImpTotDocRelacionado" : "100.00",
+			"tipMonDocRelacionado" : "USD",
+			
+			"fecPagDocRelacionado" : "2018-05-17",
+			"nroPagDocRelacionado" : "1",
+			"mtoPagDocRelacionado" : "100.00",
+			"tipMonPagDocRelacionado" : "USD",
+			
+			"mtoRetDocRelacionado" : "10.69",
+			"tipMonRetDocRelacionado" : "PEN",
+			"fecRetDocRelacionado" : "2018-05-17",
+			"mtoTotPagNetoDocRelacionado" : "345.77",
+			
+			"tipMonTotPagNetoDocRelacionado" : "PEN",
+			"tipMonRefTipCambio" : "USD",
+			"tipMonObjTipCambio" : "PEN",
+			"facTipCambio" : "3.56467",
+			"fecTipCambio" : "2018-05-17"
+		},
+		{
+			"tipDocRelacionado" : "01",
+			"nroDocRelacionado" : "FSIN-3",
+			"fecEmiDocRelacionado" : "2018-05-17",
+			"mtoImpTotDocRelacionado" : "100.00",
+			"tipMonDocRelacionado" : "PEN",
+			"fecPagDocRelacionado" : "2018-05-17",
+			"nroPagDocRelacionado" : "1",
+			"mtoPagDocRelacionado" : "60.00",
+			"tipMonPagDocRelacionado" : "PEN",
+			"mtoRetDocRelacionado" : "1.80",
+			"tipMonRetDocRelacionado" : "PEN",
+			"fecRetDocRelacionado" : "2018-05-17",
+			"mtoTotPagNetoDocRelacionado" : "58.20",
+			"tipMonTotPagNetoDocRelacionado" : "PEN"
+		}
+	]
+
+}

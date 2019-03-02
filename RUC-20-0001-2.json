@@ -1,0 +1,45 @@
+{
+	"cabecera" : {
+		"fecEmision" : "2018-08-22",
+		"nroDocIdeReceptor" : "20131312955",
+		"tipDocIdeReceptor" : "6",
+		"desNomComReceptor" : "SUNAT & COMPAÑÍA COMERCIAL",
+		"desUbiReceptor" : "150101",
+		"desDirReceptor" : "JIRON PEDRO CANGA 1543240",
+		"desUrbReceptor" : "MARANGA",
+		"desDepReceptor" : "LIMA",
+		"desProReceptor" : "LIMA",
+		"desDisReceptor" : "SAN MIGUEL",
+		"codPaisReceptor" : "PE",
+		"rznSocialReceptor" : "SUNAT & COMPAÑÍA SAC",
+		"codRegRetencion" : "01",
+		"tasRetencion" : "3.00",
+		"desObsRetencion" : "OBSRVACIONES",
+		"mtoTotRetencion" : "3.00",
+		"tipMonRetencion" : "PEN",
+		"mtoImpTotPagRetencion" : "103",
+		"tipMonImpTotPagRetencion" : "PEN"
+	},
+	"detalle" : [{
+			"tipDocRelacionado" : "01",
+			"nroDocRelacionado" : "0001-1",
+			"fecEmiDocRelacionado" : "2018-05-17",
+			"mtoImpTotDocRelacionado" : "100",
+			"tipMonDocRelacionado" : "PEN",
+			"fecPagDocRelacionado" : "2018-05-17",
+			"nroPagDocRelacionado" : "1",
+			"mtoPagDocRelacionado" : "100",
+			"tipMonPagDocRelacionado" : "PEN",
+			"mtoRetDocRelacionado" : "3",
+			"tipMonRetDocRelacionado" : "PEN",
+			"fecRetDocRelacionado" : "2018-05-17",
+			"mtoTotPagNetoDocRelacionado" : "97",
+			"tipMonTotPagNetoDocRelacionado" : "PEN",
+			"tipMonTipCambio" : "PEN",
+			"tasTipCambio" : "PEN",
+			"facTipCambio" : "1",
+			"fecTipCambio" : "2018-05-17"
+		}
+	]
+
+}

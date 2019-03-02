@@ -1,0 +1,65 @@
+{
+	"cabecera" : {
+		"tipOperacion" : "0101",
+		"fecEmision" : "2018-08-22",
+		"horEmision" : "12:12:14",
+		"fecVencimiento" : "2018-12-11",
+		"codLocalEmisor" : "0000",
+		"tipDocUsuario" : "6",
+		"numDocUsuario" : "20131312955",
+		"rznSocialUsuario" : "SUNAT & COMPAÑÍA",
+		"tipMoneda" : "PEN",
+		"sumTotTributos" : "0.00",
+		"sumTotValVenta" : "0.00",
+		"sumPrecioVenta" : "0.00",
+		"sumDescTotal" : "0.00",
+		"sumOtrosCargos" : "0.00",
+		"sumTotalAnticipos" : "0.00",
+		"sumImpVenta" : "0.00",
+		"ublVersionId" : "2.1",
+		"customizationId" : "2.0"
+	},
+	"detalle" : [{
+			"codUnidadMedida" : "NIU",
+			"ctdUnidadItem" : "1",
+			"codProducto" : "COD001",
+			"codProductoSUNAT" : "71112023",
+			"desItem" : "Producto A. Características: 1.GRATUITA. 2.Los tributos de la cabecera se registra en el conjunto tributos. 3. Los items gratuitos informan mtoValorVentaItem (Cantidad * mtoValorReferencialUnitario).",
+			"mtoValorUnitario" : "0.00",
+			"sumTotTributosItem" : "0.00",
+
+			"codTriIGV" : "9996",
+			"mtoIgvItem" : "0.00",
+			"mtoBaseIgvItem" : "1000.00",
+			"nomTributoIgvItem" : "GRA",
+			"codTipTributoIgvItem" : "FRE",
+			"tipAfeIGV" : "21",
+			"porIgvItem" : "0.00",
+
+			"codTriISC" : "-",
+			"mtoIscItem" : "0.00",
+			"mtoBaseIscItem" : "100.00",
+			"nomTributoIscItem" : "ISC",
+			"codTipTributoIscItem" : "EXC",
+			"tipSisISC" : "1",
+			"porIscItem" : "0.00",
+
+			"mtoPrecioVentaUnitario" : "0.00",
+			"mtoValorVentaItem" : "1000.00",
+			"mtoValorReferencialUnitario" : "1000.00"
+		}
+	],
+	"leyendas" : [{
+			"codLeyenda" : "1000",
+			"desLeyenda" : "MIL DIECIOCHO CON 00 /100 SOLES"
+		}
+	],
+	"tributos" : [{
+			"ideTributo" : "9996",
+			"nomTributo" : "GRA",
+			"codTipTributo" : "FRE",
+			"mtoBaseImponible" : "1000.00",
+			"mtoTributo" : "0.00"
+		}
+	]
+}
